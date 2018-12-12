@@ -1,0 +1,53 @@
+https://keybase.io/kennell
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://kennell.de
+  * I am kennell (https://keybase.io/kennell) on keybase.
+  * I have a public key ASAwF2cCH-YUarYGi7lvQ3cj0PfAFurjshQCOdV7JvZiWAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120301767021fe6146ab6068bb96f437723d0f7c016eae3b2140239d57b26f662580a",
+      "host": "keybase.io",
+      "kid": "0120301767021fe6146ab6068bb96f437723d0f7c016eae3b2140239d57b26f662580a",
+      "uid": "d69d0993a8fd5bdc70e805ed99781319",
+      "username": "kennell"
+    },
+    "merkle_root": {
+      "ctime": 1544624890,
+      "hash": "e062197f7f53f69523cb071a293ec4fe6ef6f9fb0b2648b7bb55c1d0386507e466abbefeb0f7105bbc4cb7e8f28f764208f61533246514844224833580c0f180",
+      "hash_meta": "0ef92984ed74456d9f791d9e2a2eb5a019e5a6c1e7e1742b6f3172ddd565cae8",
+      "seqno": 4114514
+    },
+    "service": {
+      "entropy": "urgf3/p6IQGL7f0pg0MM1x+1",
+      "hostname": "kennell.de",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.11.0"
+  },
+  "ctime": 1544624902,
+  "expire_in": 504576000,
+  "prev": "8c66078e9f0f9865e6bec0a59e76d5b63ef2f21eb0bfbeff8c8dcfba21caf2c7",
+  "seqno": 37,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgMBdnAh/mFGq2Bou5b0N3I9D3wBbq47IUAjnVeyb2YlgKp3BheWxvYWTESpcCJcQgjGYHjp8PmGXmvsClnnbVtj7y8h6wv77/jI3PuiHK8sfEIIouM2keEGVKKeVbnEysUCfSMSZr2paEXl1dU5+n/vVJAgHCo3NpZ8RAOaeWe/itE1rKUYKQx40ZkpP83lFqypmh/9EJ+7b6AMZHzpM98RUjMRpqQGL7UUqjXnmQRmlA0FPFByOsYfsxCKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIAyS+jtovuDCmDKKDM+vBm6YkpHzqmFJcpX1018eeKC+o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/kennell
