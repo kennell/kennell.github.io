@@ -7,6 +7,7 @@
     <meta name="description" content="Kevin Kennell">
     <title>Kevin Kennell</title>
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.0/css/all.css" integrity="sha384-aOkxzJ5uQz7WBObEZcHvV5JvRW3TUc2rNPA7pe3AwnsUohiw1Vj2Rgx2KSOkF5+h" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css">
     <link rel="icon" type="image/png" href="favicon.png">
     <style>
         body {
@@ -73,7 +74,7 @@
     <script async defer data-domain="kennell.de" src="https://plausible.io/js/plausible.js"></script>
 </head>
 <body>
-    <div id="content">
+    <div class="animate__animated animate__swing" id="content">
         <h1>Kevin Kennell</h1>
         <ul>
             <li>
@@ -90,6 +91,13 @@
             </li>
         </ul>
     </div>
-    <div id="gadsden"></div>
+    <a href="#" id="gadsden"></a>
+
+    <script>
+        var gadsden = document.getElementById('gadsden');
+        gadsden.onclick = function(e){
+          gadsden.classList.add('animate__animated', 'animate__hinge');
+        };
+    </script>
 </body>
 </html>
